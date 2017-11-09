@@ -1,0 +1,25 @@
+.app {
+	padding-top: 50px;
+	width: 80%;
+	position: relative;
+	margin: 0px auto;
+	overflow: hidden;
+    background-color:#00a98f;
+    height:550px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top:15px;
+    
+}
+
+.app-header {
+	text-align: center;
+	padding: 10px;
+	font-size: 36px;
+}
+.expense-table {
+	width: 100%;
+	border: solid 0.25px;
+    border-color: #D1C9C9;
+    border-radius: 5px;
+    padding: 10px;
+}
